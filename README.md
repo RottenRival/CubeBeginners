@@ -9,4 +9,5 @@ The algorithm consists of:
  The scrambling of the cube is done manually by the user when the program is run by giving inputs such as f,r,l etc, for clockwise twists and up,fp,rp etc for anticlockwise        twists(prime)
  Once done scrambling, the user is prompted 0 to signify the end of the scramble, after which the program executes all the functions,and displays all the algorithms required to solve the cube.
  One contribution could be timing the solution.
+ Apologies in advance as the code is not very well commented.I plan to do that as the next step.
   
